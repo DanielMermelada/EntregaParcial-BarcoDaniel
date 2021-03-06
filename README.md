@@ -8,3 +8,7 @@ Diagrama de memoria:
 Conceptos:
 
 ![Conceptos](https://user-images.githubusercontent.com/78450705/110183304-94f08580-7ddc-11eb-8df4-4f56825c35a6.png)
+
+Diseño:
+
+![Diseño](https://user-images.githubusercontent.com/78450705/110188306-3251b680-7de9-11eb-999a-92f5e842ac71.png)
